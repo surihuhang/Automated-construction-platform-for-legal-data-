@@ -104,4 +104,5 @@ chmod +x start_with_ngrok.sh
 - 所有数据保存在 Session State 中，刷新页面会保留
 - 使用"重置所有数据"按钮可以清空所有内容
 - 确保有足够的 API 配额来调用 DeepSeek API
+
 - **部署到公网时**：请使用环境变量配置 API Key，不要硬编码
